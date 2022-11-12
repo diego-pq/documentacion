@@ -1,2 +1,2 @@
 # documentacion
-poyecto De prueba con git 
+proyecto De prueba con git 
