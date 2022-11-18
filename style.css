@@ -1,7 +1,4 @@
-div{
-    height: 250px;
-    background-color: aqua;
-    color: white;
-    font-size: 50px;
-    margin: 20px;
+.bi-windows{
+    font-size: 80px;
+    color: blue;
 }
