@@ -1,4 +1,24 @@
-.bi-windows{
-    font-size: 80px;
-    color: blue;
+.justify-content-center{
+    background-color: rgb(45, 92, 57);
+    padding: 10px;
+    box-shadow: 3px 3px 1px grey;
+    margin-bottom: 4px;
+}
+
+.titulo{
+    background-color: rgb(45, 92, 57);
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin: 0%;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: white;
 }
